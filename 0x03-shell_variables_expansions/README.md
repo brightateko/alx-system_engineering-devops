@@ -1,1 +1,1 @@
-let us learn variable and expansions
+lets learn expansions
